@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VinhThinh0804
-- 👀 I’m interested in Mobile
+- 👀 I’m interested in Software
 - 🌱 I’m currently learning at University of Information Technology
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: thinhss123321@gmail.com
 
 <!---
