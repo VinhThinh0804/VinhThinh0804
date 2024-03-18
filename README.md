@@ -1,6 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Vinh Thinh</h1>
-<h3 align="center">A passionate Mobile Developer from Viet Nam</h3>
 <img align="right" alt="Coding" Width="400" src="https://cdn.dribbble.com/users/2054184/screenshots/5426945/media/f99b3f3de0180aed5eb3e4bd1dc95e1b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinhthinh0804&label=Profile%20views&color=0e75b6&style=flat" alt="vinhthinh0804" /> </p>
