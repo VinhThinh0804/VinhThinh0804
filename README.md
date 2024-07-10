@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Software Engineer**
 
-- 💬 Ask me about **Android, Web**
+- 💬 Ask me about **Web, Android**
 
 - 📫 How to reach me **thinhss123321@gmail.com**
 
