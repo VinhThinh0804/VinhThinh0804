@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently learning **Software Engineer**
 
-- 📫 How to reach me **thinhss123321@gmail.com**
+- 📫 How to reach me **ntvthinh0804@gmail.com**
