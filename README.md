@@ -2,6 +2,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vinhthinh0804&label=Profile%20views&color=0e75b6&style=flat" alt="vinhthinh0804" /> </p>
 
-- 🌱 I’m currently learning **Software Engineer**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 📫 How to reach me **ntvthinh0804@gmail.com**
