@@ -1,10 +1,8 @@
-# 👋 Hi there, I'm Nguyen Trinh Vinh Thinh
+# 👋 Hi there, I'm Vinh Thinh
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vinhthinh0804&label=Profile%20views&color=0e75b6&style=flat" alt="vinhthinh0804" /> </p>
 
 ## 🔍 About Me
-I’m a Software Engineering student at the University of Information Technology (UIT), passionate about crafting clean, scalable, and human-centered systems.  
-I love turning ideas into real products — not just coding to make things work, but making them elegant, efficient, and maintainable.  
-I enjoy both frontend and backend, with a particular interest in learning architectures that scale well in production and deliver real value to users.  
+I’m a Software Engineering student at the University of Information Technology (UIT), passionate about crafting clean, scalable, and human-centered systems. I love turning ideas into real products — not just coding to make things work, but making them elegant, efficient, and maintainable. I enjoy both frontend and backend, with a particular interest in learning architectures that scale well in production and deliver real value to users.  
 My approach: Think deeply, build iteratively, learn continuously.
 
 ## 🚀 Career Opportunities
