@@ -5,14 +5,6 @@
 I’m a Software Engineering student at the University of Information Technology (UIT), passionate about crafting clean, scalable, and human-centered systems. I love turning ideas into real products — not just coding to make things work, but making them elegant, efficient, and maintainable. I enjoy both frontend and backend, with a particular interest in learning architectures that scale well in production and deliver real value to users.  
 My approach: Think deeply, build iteratively, learn continuously.
 
-## 🚀 Career Opportunities
-I'm currently seeking **Frontend Internship** roles where I can:
-- Work with teams that value clean code, design principles, and thoughtful problem-solving.
-- Contribute to real products while learning from experienced mentors.
-- Get hands-on with real-world deployment, architecture, and scalable systems.
-
-If you're looking for someone who blends technical skills with a strong growth mindset — let's talk!
-
 ## 🛠 Tech Stack
 **Languages**: TypeScript, JavaScript, Java, C#, SQL  
 **Frontend**: ReactJS, NextJS, Tailwind CSS, Redux  
@@ -26,8 +18,3 @@ If you're looking for someone who blends technical skills with a strong growth m
 - 💼 [LinkedIn](https://www.linkedin.com/in/thinh-nguyen-a990b232a/)
 - 💻 [GitHub](https://github.com/VinhThinh0804)
 - 📫 Email: ntvthinh0804@gmail.com
-
----
-
-Thanks for visiting my profile! Feel free to explore my projects and drop me a message if you'd like to collaborate 🚀
-
