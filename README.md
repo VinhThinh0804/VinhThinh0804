@@ -6,12 +6,12 @@ I’m a Software Engineering student at the University of Information Technology
 My approach: Think deeply, build iteratively, learn continuously.
 
 ## 🛠 Tech Stack
-**Languages**: TypeScript, JavaScript, Java, C#, SQL  
+**Languages**: TypeScript, JavaScript, SQL  
 **Frontend**: ReactJS, NextJS, Tailwind CSS, Redux  
 **Backend**: NodeJS, ExpressJS, NestJS  
 **Database**: PostgreSQL, MongoDB, SQL Server  
-**Tools & Others**: Git, Docker, Postman, Selenium, Figma  
-**Concepts**: OOP, SOLID, MVC, REST APIs, Design Patterns
+**Tools & Others**: Git, Docker, Postman, Figma  
+**Concepts**: OOP, MVC, REST APIs, Design Patterns
 
 ## 🤝 Connect with Me
 - 🌐 [Portfolio Website](https://vinhthinh0804.github.io/Portfolio/)
